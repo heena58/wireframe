@@ -1,0 +1,58 @@
+    .div1 {          
+        width: 232px;
+        height: 82px;
+        margin-right: 11px;
+        border: 1px solid black;
+        }
+
+        .div2 {
+            width: 232px;
+            height: 210px;
+            border: 1px solid black;
+            margin-top: 11px;
+        }
+
+        .div3 {
+            width: 232px;
+            height: 205px;
+            border: 1px solid black;
+        }
+        .div4 {
+            width: 800px;
+            height: 44px;
+            margin-top: -9px;
+            border: 1px solid black;
+        }
+        .div5 {
+            left: 205px;
+            margin-left: 47px;
+            margin-top: -623px;
+            width: 557px;
+            height: 82px;
+            float: right;
+           
+    }
+        .div6 {
+            width: 557px;
+            height: 49px;
+            left: 250px;
+            top: 120px;
+            margin-left: 3px;
+            margin-top: -20px;
+        }
+        .div7 {
+            width: 557px;
+            height: 384px;
+            top: 160px;
+            left: 254px;
+           }
+        .div8{
+            width: 557px;
+            height: 384px;
+           }
+
+.div5, .div6, .div7 {
+    position: absolute;
+    position right: 0px ;
+    border: 1px solid black;
+}
